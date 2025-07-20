@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.4",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -7,10 +7,10 @@
     "dist",
     "src"
   ],
-  "homepage": "https://aboveyunhai.github.io/chakra-dayzed-datepicker",
+  "homepage": "https://github.com/Insid1/chakra_v3-dayzed-datepicker",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aboveyunhai/chakra-dayzed-datepicker.git"
+    "url": "git+https://github.com/Insid1/chakra_v3-dayzed-datepicker.git"
   },
   "engines": {
     "node": ">=18"
@@ -43,17 +43,17 @@
   "jest": {
     "testEnvironment": "jsdom"
   },
-  "name": "chakra-dayzed-datepicker",
-  "author": "aboveyunhai",
-  "description": "chakra + dayzed = datepicker",
-  "module": "dist/chakra-dayzed-datepicker.esm.js",
+  "name": "@insid1/chakra_v3-dayzed-datepicker",
+  "author": "insid1",
+  "description": "chakra_v3 + dayzed = datepicker",
+  "module": "dist/chakra_v3-dayzed-datepicker.esm.esm.js",
   "size-limit": [
     {
-      "path": "dist/chakra-dayzed-datepicker.cjs.production.min.js",
+      "path": "dist/chakra_v3-dayzed-datepicker.cjs.production.min.js",
       "limit": "250 KB"
     },
     {
-      "path": "dist/chakra-dayzed-datepicker.esm.js",
+      "path": "dist/chakra_v3-dayzed-datepicker.esm.js",
       "limit": "10 KB"
     }
   ],
